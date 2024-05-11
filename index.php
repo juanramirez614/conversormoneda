@@ -157,5 +157,7 @@
         <p>&copy; 2024 Mi Sitio Web - Todos los derechos reservados.</p>
         <p> Juan Camilo Ramirez Chaverra Y Juan Camilo Ramirez Hoyos</p>
     </footer>
+
+    <script src="funtion.php"></script>
 </body>
 </html>
