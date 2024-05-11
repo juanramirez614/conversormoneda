@@ -6,6 +6,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="style.css">
     <title>conversor de moneda</title>
+    
+
 </head>
 <body>
     <img src="img/logo.png" alt="" class="conversor-imagen">
@@ -158,6 +160,6 @@
         <p> Juan Camilo Ramirez Chaverra Y Juan Camilo Ramirez Hoyos</p>
     </footer>
 
-    <script src="funtion.php"></script>
+    
 </body>
 </html>
